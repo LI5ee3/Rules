@@ -1,0 +1,32 @@
+# T-Mobile Wi-Fi Calling (VoWiFi) 核心通信
+DOMAIN-SUFFIX,3gppnetwork.org
+
+# T-Mobile 官方域名 (包含所有子域名)
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,t-mo.co
+DOMAIN-SUFFIX,sprint.com
+DOMAIN-SUFFIX,tmomail.net
+
+# T-Mobile App 依赖与证书校验 (Wi-Fi Calling 握手必备)
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN,ocsp.entrust.net
+
+# T-Mobile 核心网 IP 段
+IP-CIDR,208.54.0.0/16,no-resolve
+IP-CIDR,66.94.0.0/19,no-resolve
+IP-CIDR,206.29.177.36/32,no-resolve
+IP-CIDR,172.56.0.0/12,no-resolve
+IP-CIDR,162.168.0.0/14,no-resolve
+IP-CIDR,162.188.0.0/15,no-resolve
+
+# T-Mobile ASN
+IP-ASN,21928,no-resolve
+
+# Wi-Fi Calling 必备 UDP 端口 (IPsec 隧道建立)
+DST-PORT,500
+DST-PORT,4500
+# AND,((SRC-IP,192.168.5.22), (DST-PORT,500))
+# AND,((SRC-IP,192.168.5.22), (DST-PORT,4500))
+
+# 苹果推送辅助 (iOS 触发 Wi-Fi Calling 辅助)
+# DOMAIN,courier.push.apple.com
