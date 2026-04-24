@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,icbc.com.mo
+DOMAIN-SUFFIX,haidan.cc
+DOMAIN-SUFFIX,ctm.net
+DOMAIN,mtr.mastercardservices.com
+
+# Wise
+DOMAIN-KEYWORD,wise
+
+# 时间服务器
+DOMAIN,time.windows.com
+DOMAIN,time.nist.gov
+DOMAIN,ntp.tencent.com
+DOMAIN,ntp1.aliyun.com
+DOMAIN,ntp.ntsc.ac.cn
+DOMAIN,cn.ntp.org.cn
