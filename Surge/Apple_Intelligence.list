@@ -14,3 +14,5 @@ DOMAIN,apple-relay.apple.com
 
 # Apple区域检测
 DOMAIN,gspe1-ssl.ls.apple.com
+
+DOMAIN,apple-relay.mask.apple-dns.net
