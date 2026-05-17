@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,3gppnetwork.org
 
 # T-Mobile 官方域名 (包含所有子域名)
+DOMAIN-KEYWORD,tmobile
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,t-mo.co
 DOMAIN-SUFFIX,sprint.com
