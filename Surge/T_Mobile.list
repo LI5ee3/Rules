@@ -30,4 +30,4 @@ AND,((SRC-IP,192.168.5.22), (DEST-PORT,500))
 AND,((SRC-IP,192.168.5.22), (DEST-PORT,4500))
 
 # 苹果推送辅助 (iOS 触发 Wi-Fi Calling 辅助)
-DOMAIN,courier.push.apple.com
+# DOMAIN,courier.push.apple.com
