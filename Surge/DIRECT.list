@@ -18,3 +18,6 @@ DOMAIN,cn.ntp.org.cn
 
 # 跑路云订阅链接
 DOMAIN-SUFFIX,nloli.xyz
+
+# 奶昔订阅链接
+DOMAIN-SUFFIX,metaglide.org
