@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,haidan.cc
 DOMAIN-SUFFIX,ctm.net
 DOMAIN,mtr.mastercardservices.com
 
+# 沃尔玛
+DOMAIN-KEYWORD,walmartmobile
+
 # Wise
 DOMAIN-KEYWORD,wise
 
