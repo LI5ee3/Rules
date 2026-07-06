@@ -5,8 +5,11 @@ DOMAIN-SUFFIX,haidan.cc
 DOMAIN-SUFFIX,ctm.net
 DOMAIN,mtr.mastercardservices.com
 
-# 沃尔玛
+# 沃尔玛APP
 DOMAIN-KEYWORD,walmartmobile
+
+# steam下载
+DOMAIN,steamserver.net
 
 # Wise
 DOMAIN-KEYWORD,wise
