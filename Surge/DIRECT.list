@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,haidan.cc
 DOMAIN-SUFFIX,ctm.net
 DOMAIN,mtr.mastercardservices.com
 
+# 工作用
+DOMAIN,app.yfyuncang.com
+
 # 沃尔玛APP
 DOMAIN-KEYWORD,walmartmobile
 
