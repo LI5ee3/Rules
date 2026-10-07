@@ -30,3 +30,9 @@ DOMAIN-SUFFIX,nloli.xyz
 
 # 奶昔订阅链接
 DOMAIN-SUFFIX,metaglide.org
+
+# UHD Emby
+DOMAIN,www.uhdnow.com
+DOMAIN,smart.uhdnow.com
+DOMAIN,speed.uhdnow.com
+DOMAIN-SUFFIX,uhdnow.online
