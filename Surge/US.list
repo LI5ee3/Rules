@@ -7,9 +7,3 @@ DOMAIN-KEYWORD,muse
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,meta.com
-
-# UHD Emby
-DOMAIN,v1.uhdnow.com
-DOMAIN,v1.uhdgo.com
-DOMAIN,v1-vod1.uhdnow.com
-DOMAIN,v1-vod2.uhdnow.com
