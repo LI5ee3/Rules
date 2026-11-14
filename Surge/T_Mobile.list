@@ -27,10 +27,3 @@ IP-ASN,21928,no-resolve
 # IPsec 端口
 DEST-PORT,500
 DEST-PORT,4500
-
-# 按设备匹配端口（未启用）
-# AND,((SRC-IP,192.168.5.22), (DEST-PORT,500))
-# AND,((SRC-IP,192.168.5.22), (DEST-PORT,4500))
-
-# Apple 推送（未启用）
-# DOMAIN,courier.push.apple.com
