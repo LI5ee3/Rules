@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,t-mo.co
 DOMAIN-SUFFIX,sprint.com
 DOMAIN-SUFFIX,tmomail.net
 
-# Adobe 访问统计
-DOMAIN-SUFFIX,omtrdc.net
-
 # Entrust 证书状态查询
 DOMAIN,ocsp.entrust.net
 
