@@ -17,9 +17,6 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN-SUFFIX,cp4.cloudflare.com
 
-# Apple 地区识别
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
-
 # CloudKit 内容分发
 DOMAIN-SUFFIX,gateway.icloud.com
 
