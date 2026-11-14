@@ -1,18 +1,53 @@
+# Siri 与听写请求
 DOMAIN,guzzoni.apple.com
+
+# Apple 中继相关 DNS 域名
 DOMAIN,mask-api.fe.apple-dns.net
+
+# iCloud 专用代理服务接口
 DOMAIN,mask-api.icloud.com
+
+# Apple 中继相关 DNS 域名
 DOMAIN,mask-t.apple-dns.net
+
+# Apple 中继相关 DNS 域名
 DOMAIN,mask.apple-dns.net
+
+# Siri、Spotlight 与苹果应用的搜索服务
 DOMAIN-SUFFIX,smoot.apple.com
+
+# Apple 智能扩展中继
 DOMAIN-SUFFIX,apple-relay.apple.com
+
+# Apple 私有云计算中继（Cloudflare）
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
+
+# Apple 私有云计算中继（Fastly）
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+
+# Apple 中继相关 DNS 域名
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+
+# Apple 私有云计算服务（Cloudflare）
 DOMAIN-SUFFIX,cp4.cloudflare.com
+
+# Apple 网络地区识别接口（已由下方 ls.apple.com 覆盖）
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+
+# CloudKit 内容分发，包括 XProtect 更新与语音控制资源
 DOMAIN-SUFFIX,gateway.icloud.com
+
+# Apple 地图与位置服务
 DOMAIN-SUFFIX,ls.apple.com
+
+# iCloud 专用代理的 TCP 入口
 DOMAIN-SUFFIX,mask-h2.icloud.com
+
+# iCloud 专用代理的 UDP 入口
 DOMAIN-SUFFIX,mask.icloud.com
+
+# App Store 应用及商店内容分发
 DOMAIN-SUFFIX,apps.mzstatic.com
+
+# Siri 关键词分流（匹配所有含 siri 的域名）
 DOMAIN-KEYWORD,siri

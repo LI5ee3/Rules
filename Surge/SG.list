@@ -1,5 +1,11 @@
-# UHD Emby
+# UHD Emby：v1 入口（uhdnow.com）
 DOMAIN,v1.uhdnow.com
+
+# UHD Emby：v1 入口（uhdgo.com）
 DOMAIN,v1.uhdgo.com
+
+# UHD Emby：v1-vod1 节点
 DOMAIN,v1-vod1.uhdnow.com
+
+# UHD Emby：v1-vod2 节点
 DOMAIN,v1-vod2.uhdnow.com

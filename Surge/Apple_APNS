@@ -1,16 +1,41 @@
+# Apple 推送通知服务（APNs）
 DOMAIN-SUFFIX,push.apple.com
+
+# Akamai 通用 DNS 调度域名，多家服务共用
 DOMAIN-SUFFIX,akadns.net
+
+# Apple 使用的 Akamai HTTPS 内容分发域名关键词
 DOMAIN-KEYWORD,apple.com.edgekey.net
+
+# Apple 的 17.0.0.0/8 IPv4 地址块，包含推送及其他服务
 IP-CIDR,17.0.0.0/8,no-resolve
+
+# APNs IPv4 网段（已包含在上方 17.0.0.0/8 中）
 IP-CIDR,17.249.0.0/16,no-resolve
+
+# APNs IPv4 网段（已包含在上方 17.0.0.0/8 中）
 IP-CIDR,17.252.0.0/16,no-resolve
+
+# APNs IPv4 网段（已包含在上方 17.0.0.0/8 中）
 IP-CIDR,17.57.144.0/22,no-resolve
+
+# APNs IPv4 网段（已包含在上方 17.0.0.0/8 中）
 IP-CIDR,17.188.128.0/18,no-resolve
+
+# APNs IPv4 网段（已包含在上方 17.0.0.0/8 中）
 IP-CIDR,17.188.20.0/23,no-resolve
+
+# APNs IPv6 网段
 IP-CIDR6,2620:149:a44::/48,no-resolve
+
+# APNs IPv6 网段
 IP-CIDR6,2403:300:a42::/48,no-resolve
+
+# APNs IPv6 网段
 IP-CIDR6,2403:300:a51::/48,no-resolve
+
+# APNs IPv6 网段
 IP-CIDR6,2a01:b740:a42::/48,no-resolve
 
-#APNS 证书请求门户
+# APNs 证书申请门户，供设备管理服务使用
 DOMAIN,identity.apple.com

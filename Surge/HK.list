@@ -1,14 +1,32 @@
+# 香港亚洲国际博览馆
 DOMAIN-SUFFIX,asiaworld-expo.com
+
+# 香港八达通官网及服务
 DOMAIN-SUFFIX,octopus.com.hk
+
+# Yandex 静态资源与脚本
 DOMAIN-SUFFIX,yastatic.net
+
+# Cityline 购票通
 DOMAIN-SUFFIX,cityline.com
+
+# Contentstack 内容分发与资源接口
 DOMAIN-SUFFIX,contentstack.io
+
+# 香港港铁官网及服务
 DOMAIN-SUFFIX,mtr.com.hk
+
+# 3 香港电讯服务
 DOMAIN-SUFFIX,three.com.hk
+
+# 香港公共交通费用补贴相关接口
 DOMAIN,subsidy-app.ptfss.hk
+
+# Gemalto（现 Thales）服务端点，具体用途待确认
 DOMAIN,xroh.cbp.gemalto.com
 
+# 自用域名
 DOMAIN-SUFFIX,5993.top
 
-# vCards 中国黄页
+# vCards 中国黄页 CardDAV 订阅服务
 DOMAIN,vcards.metowolf.com

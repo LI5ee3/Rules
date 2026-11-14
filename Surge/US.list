@@ -1,9 +1,17 @@
-# 美国手机号码购买网站
+# NumberBarn 美国电话号码购买与停放服务
 DOMAIN-SUFFIX,numberbarn.com
 
-# Meta
+# Meta 关键词分流（匹配所有含 meta 的域名）
 DOMAIN-KEYWORD,meta
+
+# Muse 关键词分流（匹配所有含 muse 的域名）
 DOMAIN-KEYWORD,muse
+
+# Meta AI 助手
 DOMAIN-SUFFIX,meta.ai
+
+# Meta Muse 个人 AI 智能体
 DOMAIN-SUFFIX,muse.ai
+
+# Meta 官网、账号及产品服务
 DOMAIN-SUFFIX,meta.com
