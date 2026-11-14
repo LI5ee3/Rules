@@ -1,57 +1,39 @@
-# 3GPP 运营商网络域名，包含 Wi-Fi Calling 使用的 ePDG 网关
+# Wi-Fi Calling 运营商网关（3GPP / ePDG）
 DOMAIN-SUFFIX,3gppnetwork.org
 
-# T-Mobile 关键词分流（匹配所有含 tmobile 的域名）
+# T-Mobile、Sprint 与短信服务
 DOMAIN-KEYWORD,tmobile
-
-# T-Mobile 官网、账户及服务接口
 DOMAIN-SUFFIX,t-mobile.com
-
-# T-Mobile 官方短链接
 DOMAIN-SUFFIX,t-mo.co
-
-# 原 Sprint 官网及相关服务
 DOMAIN-SUFFIX,sprint.com
-
-# T-Mobile 邮件转短信网关
 DOMAIN-SUFFIX,tmomail.net
 
-# Adobe 数据采集与访问统计，多家网站和 App 共用
+# Adobe 访问统计
 DOMAIN-SUFFIX,omtrdc.net
 
-# Entrust 证书状态查询（OCSP）
+# Entrust 证书状态查询
 DOMAIN,ocsp.entrust.net
 
-# T-Mobile Wi-Fi Calling 网段，含 IKE 认证与加密语音连接
+# T-Mobile Wi-Fi Calling 网段
 IP-CIDR,208.54.0.0/16,no-resolve
-
-# T-Mobile 旧版 Wi-Fi Calling 认证与可视化语音信箱网段
 IP-CIDR,66.94.0.0/19,no-resolve
 
-# T-Mobile 证书吊销列表服务器 crl.t-mobile.com
+# T-Mobile 证书吊销列表
 IP-CIDR,206.29.177.36/32,no-resolve
 
-# 原有 T-Mobile 网段规则（/12 归一化为 172.48.0.0/12）
+# T-Mobile IP 网段与 ASN
 IP-CIDR,172.56.0.0/12,no-resolve
-
-# T-Mobile IP 骨干网子网
 IP-CIDR,162.168.0.0/14,no-resolve
-
-# T-Mobile IP 骨干网子网
 IP-CIDR,162.188.0.0/15,no-resolve
-
-# T-Mobile 自治系统 AS21928，覆盖范围不限于 Wi-Fi Calling
 IP-ASN,21928,no-resolve
 
-# IKE/IPsec 认证常用端口，当前规则未限定协议或目标
+# IPsec 端口
 DEST-PORT,500
-
-# IPsec NAT 穿透常用端口，当前规则未限定协议或目标
 DEST-PORT,4500
 
-# 按设备限制目的端口的示例，当前未启用
+# 按设备匹配端口（未启用）
 # AND,((SRC-IP,192.168.5.22), (DEST-PORT,500))
 # AND,((SRC-IP,192.168.5.22), (DEST-PORT,4500))
 
-# Apple 推送连接，当前未启用
+# Apple 推送（未启用）
 # DOMAIN,courier.push.apple.com

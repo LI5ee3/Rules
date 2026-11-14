@@ -1,71 +1,47 @@
-# 中银香港
+# 银行：中银香港、汇丰香港、众安、工银澳门
 DOMAIN-SUFFIX,bochk.com
-
-# 汇丰香港
 DOMAIN-SUFFIX,hsbc.com.hk
-
-# ZA 众安银行及集团服务
 DOMAIN-SUFFIX,za.group
-
-# 工银澳门
 DOMAIN-SUFFIX,icbc.com.mo
 
-# 海胆（HaiDan）站点
+# 海胆
 DOMAIN-SUFFIX,haidan.cc
 
 # CTM 澳门电讯
 DOMAIN-SUFFIX,ctm.net
 
-# Mastercard Travel Rewards 旅行消费优惠与返现
+# Mastercard 旅行优惠
 DOMAIN,mtr.mastercardservices.com
 
-# 工作用云仓系统
+# 工作用云仓
 DOMAIN,app.yfyuncang.com
 
-# 沃尔玛 App 相关域名关键词
+# 沃尔玛 App
 DOMAIN-KEYWORD,walmartmobile
 
-# Valve / Steam 服务域名（当前仅匹配主域名）
+# Steam
 DOMAIN,steamserver.net
 
-# Wise 关键词分流（匹配所有含 wise 的域名）
+# Wise
 DOMAIN-KEYWORD,wise
 
-# Windows 时间同步服务器
+# 时间同步服务器
 DOMAIN,time.windows.com
-
-# 美国 NIST 时间同步服务器
 DOMAIN,time.nist.gov
-
-# 腾讯 NTP 时间同步服务器
 DOMAIN,ntp.tencent.com
-
-# 阿里云 NTP 时间同步服务器
 DOMAIN,ntp1.aliyun.com
-
-# 中国科学院国家授时中心 NTP 服务器
 DOMAIN,ntp.ntsc.ac.cn
-
-# NTP 中国站时间同步服务器
 DOMAIN,cn.ntp.org.cn
 
-# 跑路云订阅域名
+# 订阅：跑路云、奶昔
 DOMAIN-SUFFIX,nloli.xyz
-
-# 奶昔订阅域名
 DOMAIN-SUFFIX,metaglide.org
 
-# UHD Emby：www 入口
+# UHD Emby
 DOMAIN,www.uhdnow.com
-
-# UHD Emby：smart 入口
 DOMAIN,smart.uhdnow.com
-
-# UHD Emby：speed 入口
 DOMAIN,speed.uhdnow.com
-
-# UHD Emby：uhdnow.online 及其子域名
 DOMAIN-SUFFIX,uhdnow.online
 
-# Pomo 4K 影视资源索引
+# Pomo 4K 影视索引
 DOMAIN-SUFFIX,pomo.mom

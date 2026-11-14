@@ -1,47 +1,24 @@
-# Xbox 内容下载节点 assets1（.cn 域名）
+# Xbox 下载（.cn 域名）
 DOMAIN,assets1.xboxlive.cn
-
-# Xbox 内容下载节点 assets2（.cn 域名）
 DOMAIN,assets2.xboxlive.cn
-
-# Xbox 内容下载节点 d1（.cn 域名）
 DOMAIN,d1.xboxlive.cn
-
-# Xbox 内容下载节点 d2（.cn 域名）
 DOMAIN,d2.xboxlive.cn
-
-# Xbox 内容下载节点 dlassets（.cn 域名）
 DOMAIN,dlassets.xboxlive.cn
-
-# Xbox 内容下载节点 dlassets2（.cn 域名）
 DOMAIN,dlassets2.xboxlive.cn
 
-# Xbox 内容下载节点 xvcf1
+# Xbox 下载（.com 域名）
+DOMAIN,assets.xbox.com
+DOMAIN,xvcb1.xboxlive.com
+DOMAIN,xvcb2.xboxlive.com
 DOMAIN,xvcf1.xboxlive.com
-
-# Xbox 内容下载节点 xvcf2
 DOMAIN,xvcf2.xboxlive.com
-
-# Xbox 内容下载节点 assets1
 DOMAIN,assets1.xboxlive.com
-
-# Xbox 内容下载节点 assets2
 DOMAIN,assets2.xboxlive.com
-
-# Xbox 内容下载节点 d1
 DOMAIN,d1.xboxlive.com
-
-# Xbox 内容下载节点 d2
 DOMAIN,d2.xboxlive.com
-
-# Xbox 内容下载节点 dlassets
 DOMAIN,dlassets.xboxlive.com
-
-# Xbox 内容下载节点 dlassets2
 DOMAIN,dlassets2.xboxlive.com
 
-# Microsoft 内容分发，供商店应用、游戏及系统更新等共用
+# Microsoft 商店、游戏与系统更新下载
 DOMAIN,dl.delivery.mp.microsoft.com
-
-# Microsoft 内容分发下载节点，供商店应用、游戏及系统更新等共用
 DOMAIN,tlu.dl.delivery.mp.microsoft.com

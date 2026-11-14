@@ -1,41 +1,22 @@
-# Yandex 搜索、账号及相关服务
+# Yandex
 DOMAIN-SUFFIX,yandex.ru
 
-# Ozon 商城、卖家后台及 API
+# Ozon 商城、卖家服务与内容资源
 DOMAIN-SUFFIX,ozon.ru
-
-# Ozon 图片与静态资源
+DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozone.ru
-
-# Ozon 图片、文档等内容资源
 DOMAIN-SUFFIX,ozonusercontent.com
 
-# Lazada 官方网站及平台服务
+# Lazada 各地区站点
 DOMAIN-SUFFIX,lazada.com
-
-# Lazada 马来西亚站
 DOMAIN-SUFFIX,lazada.com.my
-
-# Lazada 菲律宾站
 DOMAIN-SUFFIX,lazada.com.ph
-
-# Lazada 新加坡站
 DOMAIN-SUFFIX,lazada.sg
-
-# Lazada 印度尼西亚站
 DOMAIN-SUFFIX,lazada.co.id
-
-# Lazada 泰国站
 DOMAIN-SUFFIX,lazada.co.th
-
-# Lazada 越南站
 DOMAIN-SUFFIX,lazada.vn
 
-# AliExpress 全球速卖通
+# AliExpress 全球站、俄罗斯站与媒体资源
 DOMAIN-SUFFIX,aliexpress.com
-
-# AliExpress 图片与媒体资源
 DOMAIN-SUFFIX,aliexpress-media.com
-
-# AliExpress 俄罗斯站
 DOMAIN-SUFFIX,aliexpress.ru
